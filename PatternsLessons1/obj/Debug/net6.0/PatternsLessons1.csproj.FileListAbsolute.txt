@@ -1,0 +1,15 @@
+/Users/home/repos/PatternsLessons1/PatternsLessons1/bin/Debug/net6.0/PatternsLessons1
+/Users/home/repos/PatternsLessons1/PatternsLessons1/bin/Debug/net6.0/PatternsLessons1.deps.json
+/Users/home/repos/PatternsLessons1/PatternsLessons1/bin/Debug/net6.0/PatternsLessons1.runtimeconfig.json
+/Users/home/repos/PatternsLessons1/PatternsLessons1/bin/Debug/net6.0/PatternsLessons1.dll
+/Users/home/repos/PatternsLessons1/PatternsLessons1/bin/Debug/net6.0/PatternsLessons1.pdb
+/Users/home/repos/PatternsLessons1/PatternsLessons1/obj/Debug/net6.0/PatternsLessons1.csproj.AssemblyReference.cache
+/Users/home/repos/PatternsLessons1/PatternsLessons1/obj/Debug/net6.0/PatternsLessons1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/home/repos/PatternsLessons1/PatternsLessons1/obj/Debug/net6.0/PatternsLessons1.AssemblyInfoInputs.cache
+/Users/home/repos/PatternsLessons1/PatternsLessons1/obj/Debug/net6.0/PatternsLessons1.AssemblyInfo.cs
+/Users/home/repos/PatternsLessons1/PatternsLessons1/obj/Debug/net6.0/PatternsLessons1.csproj.CoreCompileInputs.cache
+/Users/home/repos/PatternsLessons1/PatternsLessons1/obj/Debug/net6.0/PatternsLessons1.dll
+/Users/home/repos/PatternsLessons1/PatternsLessons1/obj/Debug/net6.0/refint/PatternsLessons1.dll
+/Users/home/repos/PatternsLessons1/PatternsLessons1/obj/Debug/net6.0/PatternsLessons1.pdb
+/Users/home/repos/PatternsLessons1/PatternsLessons1/obj/Debug/net6.0/PatternsLessons1.genruntimeconfig.cache
+/Users/home/repos/PatternsLessons1/PatternsLessons1/obj/Debug/net6.0/ref/PatternsLessons1.dll
